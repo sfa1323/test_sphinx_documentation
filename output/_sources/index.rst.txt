@@ -10,9 +10,9 @@ Welcome to test PrIME20 documentation!
    :maxdepth: 2
    :caption: Administrator Documentation:
 
-   Topic 1 <topic1>
-   Topic 2 <topic2>
-   Topic 3 <topic3>
+   Displaying Headings <topic1>
+   Displaying Images <topic2>
+   Linking Pages <topic3>
 
 .. toctree::
    :maxdepth: 2
