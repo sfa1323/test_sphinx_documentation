@@ -7,8 +7,8 @@ Welcome to test PrIME20 documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Administrator Documentation:
+   :maxdepth: 3
+   :caption: Administrator Documentation
 
    Displaying Headings <topic1>
    Displaying Images <topic2>
@@ -16,9 +16,21 @@ Welcome to test PrIME20 documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation:
+   :caption: User Documentation
 
    Topic 4 <topic4>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: FAQs
+
+   FAQs <FAQs>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Release Notes
+
+   Release Notes <release_notes>
 
 Indices and tables
 ==================
