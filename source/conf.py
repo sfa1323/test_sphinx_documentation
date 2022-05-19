@@ -59,7 +59,9 @@ exclude_patterns = []
 html_theme = "sphinx_book_theme"
 
 html_theme_options = {
-    "repository_url": "https://github.com/sfa1323/test_sphinx_documentation/tree/test_for_edits",
+    "repository_url": "https://github.com/sfa1323/test_sphinx_documentation",
+    "repository_branch": "test_for_edits",
+    "path_to_docs": "/source",
     "use_repository_button": True,
     "use_edit_page_button": True,
     "use_issues_button": True
