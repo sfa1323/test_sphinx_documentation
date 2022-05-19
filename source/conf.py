@@ -31,6 +31,13 @@ release = '1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx_panels',
+    'sphinxcontrib.yt',
+    'sphinx_tabs.tabs',
+    'sphinxcontrib.video',
+    'sphinx_disqus.disqus',
+    'sphinx_comments',
+    'sphinx_fontawesome',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -48,9 +55,42 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 # html_theme = 'alabaster'
-html_theme = "sphinx_rtd_theme"
+#html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_book_theme"
+
+html_theme_options = {
+    "repository_url": "https://github.com/sfa1323/test_sphinx_documentation}",
+    "use_repository_button": True,
+    "use_edit_page_button": True,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# -- Options for sphinx-intl example
+
+locale_dirs = ['locale/']   # po files will be created in this directory
+gettext_compact = False     # optional: avoid file concatenation in sub directories.
+
+# -- Options for sphinx_disqus example
+
+disqus_shortname = 'my-cool-project'
+
+# -- Options for sphinx_comments example
+
+comments_config = {
+   "hypothesis": True
+}
+
+#comments_config = {
+#   "utterances": {
+#      "repo": "github-org/github-repo",
+#      "optional": "config",
+#   }
+#}
+
+#comments_config = {
+#   "dokieli": True
+#}

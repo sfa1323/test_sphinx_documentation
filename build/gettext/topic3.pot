@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, sfa
+# This file is distributed under the same license as the Test PrIME20 Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test PrIME20 Documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-18 10:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/topic3.rst:2
+msgid "Linking Pages"
+msgstr ""
+
+#: ../../source/topic3.rst:6
+msgid "Displaying Headings Page Linked"
+msgstr ""
+
+#: ../../source/topic3.rst:8
+msgid "This is a link to :doc:`Displaying Headings </topic1>`."
+msgstr ""
+
+#: ../../source/topic3.rst:10
+msgid "To create a link, use the following syntax: ``:doc:`<label_to_be_displayed> </<name_of_the_file_with_the_referenced_page>>```"
+msgstr ""
