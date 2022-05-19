@@ -62,7 +62,11 @@ html_theme_options = {
     "repository_url": "https://github.com/sfa1323/test_sphinx_documentation/tree/test_for_edits}",
     "use_repository_button": True,
     "use_edit_page_button": True,
+    "use_issues_button": True
 }
+
+html_logo = "media/logo.png"
+html_title = "PrIME 20"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

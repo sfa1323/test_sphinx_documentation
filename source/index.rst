@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test PrIME20 documentation!
+Welcome to test PrIME20 documentation
 =====================================================
 
 
@@ -23,7 +23,7 @@ Welcome to test PrIME20 documentation!
 
       .. div:: align-center
 
-         If you don't have PrIME installed and want to get started, follow the :doc:`installation` guide.
+         If you do not have PrIME installed and want to get started, follow the :doc:`installation` guide.
       ---
 
       .. div:: align-center
