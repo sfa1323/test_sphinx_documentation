@@ -1,9 +1,11 @@
+.. include:: substitutions.rst
+
 Displaying Headings
 *******************
 
-=================
-Heading 1
-=================
+=======================
+Heading 1 |Product|
+=======================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec dui nunc mattis enim. Quis hendrerit dolor magna eget est lorem ipsum dolor sit. Leo urna molestie at elementum eu facilisis sed. Amet dictum sit amet justo. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Ornare aenean euismod elementum nisi quis eleifend. Aliquam eleifend mi in nulla posuere. Elementum nisi quis eleifend quam. Condimentum mattis pellentesque id nibh tortor id. Fermentum iaculis eu non diam phasellus vestibulum lorem. Risus viverra adipiscing at in. Duis ultricies lacus sed turpis tincidunt id aliquet.
 

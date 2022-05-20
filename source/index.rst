@@ -1,17 +1,21 @@
+.. include:: substitutions.rst
+
 .. Test_Sphinx_Documentation documentation master file, created by
    sphinx-quickstart on Wed May 11 09:41:30 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PrIME 20 documentation
-=====================================================
+Welcome to |Product| documentation 
+====================================
 
 
 .. tabbed:: Intro Page
 
   .. rst-class:: blue-32px
 
-  PrIME 20 documentation provides a variety of resources that will help you learn how to use the application, click the below panes to learn more about the particular topic.
+  |Product| documentation provides a variety of resources that will help you learn how to use the application, click the below panes to learn more about the particular topic.
+
+  |test_variable1| |test_variable2|
 
   .. panels::
       :container: container-lg pb-3 px-md-0 px-5
@@ -151,3 +155,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+

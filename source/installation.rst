@@ -16,3 +16,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ----------------
 Guide 2
 ----------------
+
+.. include:: reuse_sample.rst
