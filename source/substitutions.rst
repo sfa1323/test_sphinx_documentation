@@ -1,0 +1,1 @@
+.. |Product| replace:: PrIME20
