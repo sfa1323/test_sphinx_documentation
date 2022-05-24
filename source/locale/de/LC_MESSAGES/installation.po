@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test PrIME20 Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 10:19+0200\n"
+"POT-Creation-Date: 2022-05-23 09:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgid "Installation"
 msgstr ""
 
 #: ../../source/installation.rst:6
-msgid "Step 1"
+msgid "Conceptual Info"
 msgstr ""
 
 #: ../../source/installation.rst:8
@@ -31,7 +31,7 @@ msgid "Tortor aliquam nulla facilisi cras fermentum odio eu feugiat."
 msgstr ""
 
 #: ../../source/installation.rst:12
-msgid "Step 2"
+msgid "Guide 1"
 msgstr ""
 
 #: ../../source/installation.rst:14
@@ -41,6 +41,36 @@ msgid ""
 msgstr ""
 
 #: ../../source/installation.rst:18
-msgid "Step 3"
+msgid "Guide 2"
+msgstr ""
+
+#: ../../source/reuse_sample.rst:1
+msgid "The section text is inherited from a different file."
+msgstr ""
+
+#: ../../source/reuse_sample.rst:3
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla "
+"pellentesque, neque non consectetur scelerisque, enim velit rutrum arcu, "
+"in pulvinar lorem mi non lorem. Mauris ornare, ipsum eget sodales tempor,"
+" nibh risus fringilla nunc, ut pharetra tellus ligula convallis neque. In"
+" hac habitasse platea dictumst. Nam lectus neque, ullamcorper pharetra "
+"augue vitae, porttitor sollicitudin orci. Sed tincidunt turpis id neque "
+"efficitur, id mattis orci sagittis. In pellentesque in ligula id "
+"venenatis. Cras vestibulum vitae quam quis ultricies. Suspendisse ut nisi"
+" libero. Nulla mollis turpis quis auctor consectetur. Cras mattis, dolor "
+"in finibus lacinia, lacus enim tempor dui, nec accumsan sem ipsum ac "
+"massa."
+msgstr ""
+
+#: ../../source/reuse_sample.rst:5
+msgid ""
+"Sed sed massa quis urna pulvinar vehicula. Proin id quam ex. Fusce ac "
+"velit sed libero molestie suscipit. Aliquam semper efficitur tincidunt. "
+"Vestibulum posuere urna pharetra felis faucibus, in vehicula tortor "
+"fringilla. Morbi accumsan justo at pellentesque blandit. Nulla sed diam "
+"convallis, ullamcorper velit nec, euismod erat. Vivamus vulputate finibus"
+" justo, et mollis massa hendrerit sit amet. Class aptent taciti sociosqu "
+"ad litora torquent per conubia nostra, per inceptos himenaeos."
 msgstr ""
 

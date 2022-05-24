@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test PrIME20 Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 10:19+0200\n"
+"POT-Creation-Date: 2022-05-23 09:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,32 +20,31 @@ msgstr ""
 
 #: ../../source/FAQs.rst:2
 msgid "FAQs"
-msgstr "FAQs"
+msgstr ""
 
 #: ../../source/FAQs.rst:6
 msgid "Question 1"
-msgstr "Frage 1"
+msgstr ""
 
 #: ../../source/FAQs.rst:8
 msgid "Tortor aliquam nulla facilisi cras fermentum odio eu feugiat."
-msgstr "Tortor aliquam nulla facilisi cras fermentum odio eu feugiat."
+msgstr ""
 
 #: ../../source/FAQs.rst:12
 msgid "Question 2"
-msgstr "Frage 2"
+msgstr ""
 
 #: ../../source/FAQs.rst:14
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
 "tempor incididunt ut labore et dolore magna aliqua."
 msgstr ""
-"DE:Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
-"tempor incididunt ut labore et dolore magna aliqua."
+
 #: ../../source/FAQs.rst:18
 msgid "Question 3"
-msgstr "Frage 3"
+msgstr ""
 
 #: ../../source/FAQs.rst:20
 msgid "Nisl condimentum id venenatis a. Enim eu turpis egestas pretium aenean."
-msgstr "Nisl condimentum id venenatis a. Enim eu turpis egestas pretium aenean."
+msgstr ""
 
