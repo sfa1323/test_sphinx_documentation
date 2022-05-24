@@ -76,7 +76,7 @@ html_context = {
     "github_url": "https://github.com",
     "github_user": "sfa1323",
     "github_repo": "test_sphinx_documentation",
-    "github_version": "test_for_edits",
+    "github_version": "pydata_theme",
     "doc_path": "/source",
 }
 
