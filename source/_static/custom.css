@@ -1,8 +1,12 @@
+h1 {
+	color: #F15A24 !important;
+}
+
 label.tabbed-label {
-    color: #F15A24 !important;
+	color: #F15A24 !important;
 }
 
 span.caption-text {
-    color: #F15A24 !important;
+	color: #F15A24 !important;
 }
 

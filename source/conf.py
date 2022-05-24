@@ -56,18 +56,28 @@ exclude_patterns = []
 #
 # html_theme = 'alabaster'
 #html_theme = "sphinx_rtd_theme"
-html_theme = "sphinx_book_theme"
-#html_theme = "pydata_sphinx_theme"
+#html_theme = "sphinx_book_theme"
+html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
-    "repository_url": "https://github.com/sfa1323/test_sphinx_documentation",
-    "repository_branch": "test_for_edits",
-    "path_to_docs": "/source",
-    "use_repository_button": True,
+    #"repository_url": "https://github.com/sfa1323/test_sphinx_documentation/tree/test_for_edits",
+    "github_url": "https://github.com/sfa1323/test_sphinx_documentation",
+    #"repository_branch": "test_for_edits",
+    #"path_to_docs": "/source",
+    #"use_repository_button": True,
+    #"use_edit_page_button": True,
+    #"use_issues_button": True,
+    #"announcement": "This is a mock-up for PrIME 20 documentation.",
+    #"toc_title": "Topics on this page",
     "use_edit_page_button": True,
-    "use_issues_button": True,
-    "announcement": "This is a mock-up for PrIME 20 documentation.",
-    "toc_title": "Topics on this page",
+}
+
+html_context = {
+    "github_url": "https://github.com",
+    "github_user": "sfa1323",
+    "github_repo": "test_sphinx_documentation",
+    "github_version": "test_for_edits",
+    "doc_path": "/source",
 }
 
 html_logo = "media/logo.png"
@@ -87,7 +97,7 @@ gettext_compact = False     # optional: avoid file concatenation in sub director
 
 # -- Options for sphinx_disqus example
 
-disqus_shortname = 'my-cool-project'
+#disqus_shortname = 'my-cool-project'
 
 # -- Options for sphinx_comments example
 
