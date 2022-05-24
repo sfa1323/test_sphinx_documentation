@@ -57,6 +57,7 @@ exclude_patterns = []
 # html_theme = 'alabaster'
 #html_theme = "sphinx_rtd_theme"
 html_theme = "sphinx_book_theme"
+#html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
     "repository_url": "https://github.com/sfa1323/test_sphinx_documentation",
@@ -90,9 +91,9 @@ disqus_shortname = 'my-cool-project'
 
 # -- Options for sphinx_comments example
 
-comments_config = {
-   "hypothesis": True
-}
+#comments_config = {
+#   "hypothesis": True
+#}
 
 #comments_config = {
 #   "utterances": {

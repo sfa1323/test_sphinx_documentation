@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test PrIME20 Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 10:19+0200\n"
+"POT-Creation-Date: 2022-05-23 09:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,117 +18,150 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.1\n"
 
-#: ../../source/index.rst:67
+#: ../../source/index.rst:97
 msgid "Displaying Headings"
-msgstr ""
+msgstr "Anzeigen von Überschriften"
 
-#: ../../source/index.rst:67
+#: ../../source/index.rst:97
 msgid "Displaying Visuals"
 msgstr "Anzeigen von visuellen Elementen"
 
-#: ../../source/index.rst:67 ../../source/index.rst:86
+#: ../../source/index.rst:97
 msgid "Linking Pages"
 msgstr "Verlinken von Seiten"
 
-#: ../../source/index.rst ../../source/index.rst:67
+#: ../../source/index.rst:97
+msgid "User Management"
+msgstr "Benutzerverwaltung"
+
+#: ../../source/index.rst ../../source/index.rst:97
 msgid "Administrator Documentation"
 msgstr "Administrator-Dokumentation"
 
-#: ../../source/index.rst:77
+#: ../../source/index.rst:108
 msgid "Quick Start"
 msgstr "Schnellstart"
 
-#: ../../source/index.rst:77
+#: ../../source/index.rst:108
 msgid "Creating Lists"
 msgstr "Erstellen von Listen"
 
-#: ../../source/index.rst ../../source/index.rst:77
+#: ../../source/index.rst:108
+msgid "Reporting"
+msgstr "Berichtend"
+
+#: ../../source/index.rst ../../source/index.rst:108
 msgid "User Documentation"
 msgstr "Benutzerdokumentation"
 
-#: ../../source/index.rst:86
-msgid "Solutions"
-msgstr "Lösungen"
+#: ../../source/index.rst:118
+msgid "Solutions and Assets"
+msgstr "Lösungen und Assets"
 
-#: ../../source/index.rst:86
+#: ../../source/index.rst:118
 msgid "Subscriptions"
 msgstr "Abonnements"
 
-#: ../../source/index.rst ../../source/index.rst:86
+#: ../../source/index.rst ../../source/index.rst:118
 msgid "Business Documentation"
 msgstr "Geschäftsdokumentation"
 
-#: ../../source/index.rst:96
+#: ../../source/index.rst:127
 msgid "FAQs"
-msgstr "FAQs"
+msgstr ""
 
-#: ../../source/index.rst:96
+#: ../../source/index.rst:127
 msgid "Release Notes"
 msgstr "Versionshinweise"
 
-#: ../../source/index.rst:96
+#: ../../source/index.rst:127
 msgid "Troubleshooting Guide"
 msgstr "Anleitung zur Fehlerbehebung"
 
-#: ../../source/index.rst:96
+#: ../../source/index.rst:127
 msgid "Installation Guide"
 msgstr "Installationsanleitung"
 
-#: ../../source/index.rst ../../source/index.rst:96
+#: ../../source/index.rst ../../source/index.rst:127
 msgid "Support"
 msgstr "Unterstützen"
 
-#: ../../source/index.rst:7
-msgid "Welcome to test PrIME20 documentation!"
-msgstr "Willkommen zum Testen der PrIME20-Dokumentation!"
+#: ../../source/index.rst:9
+msgid "Welcome to |Product| documentation"
+msgstr "Willkommen zum der PrIME20-Dokumentation!"
 
 #: ../../source/index.rst
 msgid "Intro Page"
 msgstr "Intro-Seite"
 
-#: ../../source/index.rst:11
+#: ../../source/index.rst:16
 msgid ""
-"PrIME documentation provides a variety of resources that will help you "
-"learn how to use the application, click the below panes to learn more "
-"about the particular topic."
+"|Product| documentation provides a variety of resources that will help "
+"you learn how to use the application, click the below panes to learn more"
+" about the particular topic."
 msgstr ""
-"Die PrIME-Dokumentation bietet eine Vielzahl von Ressourcen, die Ihnen helfen,"
-"die Verwendung der Anwendung zu erlernen, klicken Sie auf die folgenden Bereiche, "
-"um mehr über das jeweilige Thema zu erfahren."
+"Die PrIME-Dokumentation bietet eine Vielzahl von Ressourcen, die Ihnen "
+"helfen,die Verwendung der Anwendung zu erlernen, klicken Sie auf die "
+"folgenden Bereiche, um mehr über das jeweilige Thema zu erfahren."
 
-#: ../../source/index.rst:23
-msgid ""
-"If you are looking for a summary of its features and interface, check out"
-" the :doc:`quickstart`."
+#: ../../source/index.rst:18
+msgid "|test_variable1| |test_variable2|"
 msgstr ""
-"Wenn Sie nach einer Zusammenfassung der Funktionen und der Benutzeroberfläche suchen, sehen Sie sich die"
-" :doc:`quickstart` an."
 
-#: ../../source/index.rst:31
+#: ../../source/index.rst:30
 msgid ""
-"If you don't have PrIME installed and want to get started, follow the "
-":doc:`installation`."
+"If you do not have PrIME installed and want to get started, follow the "
+":doc:`installation` guide."
 msgstr ""
-"Wenn Sie PrIME nicht installiert haben und loslegen möchten, folgen Sie der "
-":doc:`installation`."
+"Wenn Sie PrIME nicht installiert haben und loslegen möchten, folgen Sie "
+"der :doc:`installation`."
 
 #: ../../source/index.rst:39
-msgid "For information on subscriptions, go to :doc:`subscriptions`."
-msgstr "oder Informationen zu Abonnements finden Sie unter :doc:`subscriptions`."
+msgid ""
+"If you are looking for a summary of its features and interface, check out"
+" the :doc:`quickstart` guide."
+msgstr ""
+"Wenn Sie nach einer Zusammenfassung der Funktionen und der "
+"Benutzeroberfläche suchen, sehen Sie sich die :doc:`quickstart` an."
 
-#: ../../source/index.rst:47
-msgid "For information on solutions, go to :doc:`solutions`."
-msgstr "Informationen zu Lösungen finden Sie unter :doc:`solutions`."
+#: ../../source/index.rst:48
+msgid ""
+"If you are looking for information about subscriptions, go to "
+":doc:`subscriptions`."
+msgstr ""
+"Oder Informationen zu Abonnements finden Sie unter"
+" :doc:`subscriptions`."
 
-#: ../../source/index.rst:55
+#: ../../source/index.rst:57
+msgid ""
+"If you are looking for information about solutions and assets, go to "
+":doc:`solutions_and_assets`."
+msgstr ""
+"Wenn Sie nach Informationen zu Lösungen und Assets suchen, gehen Sie zu"
+" :doc:`solutions_and_assets`."
+
+#: ../../source/index.rst:66
+msgid "If you are looking for information about reports, go to :doc:`reporting`."
+msgstr "Wenn Sie nach Informationen zu Berichten suchen, gehen Sie zu :doc:`reporting`."
+
+#: ../../source/index.rst:75
+msgid ""
+"If you are looking for information about managing users, go to "
+":doc:`user_management`."
+msgstr ""
+"Wenn Sie nach Informationen zum Verwalten von Benutzern suchen, gehen Sie zu "
+":doc:`user_management`."
+
+#: ../../source/index.rst:84
 msgid ""
 "If you've run into a PrIME problem and need help solving it, take a look "
 "at our :doc:`troubleshooting guide<troubleshooting>`."
 msgstr ""
-"Wenn Sie auf ein PrIME-Problem gestoßen sind und Hilfe bei der Lösung benötigen, werfen Sie einen Blick "
-"auf unsere :doc:`troubleshooting guide<troubleshooting>`."
+"Wenn Sie auf ein PrIME-Problem gestoßen sind und Hilfe bei der Lösung "
+"benötigen, werfen Sie einen Blick auf unsere :doc:`troubleshooting "
+"guide<troubleshooting>`."
 
-#: ../../source/index.rst:63
+#: ../../source/index.rst:93
 msgid "If you have a question about PrIME, visit the :doc:`FAQs` section."
 msgstr "Wenn Sie eine Frage zu PrIME haben, besuchen Sie den :doc:`FAQs`-Bereich."
 
@@ -136,19 +169,19 @@ msgstr "Wenn Sie eine Frage zu PrIME haben, besuchen Sie den :doc:`FAQs`-Bereich
 msgid "Videos"
 msgstr ""
 
-#: ../../source/index.rst:122
+#: ../../source/index.rst:153
 msgid "Indices and tables"
-msgstr ""
+msgstr "Indizes und Tabellen"
 
-#: ../../source/index.rst:124
+#: ../../source/index.rst:155
 msgid ":ref:`genindex`"
 msgstr ""
 
-#: ../../source/index.rst:125
+#: ../../source/index.rst:156
 msgid ":ref:`modindex`"
 msgstr ""
 
-#: ../../source/index.rst:126
+#: ../../source/index.rst:157
 msgid ":ref:`search`"
 msgstr ""
 

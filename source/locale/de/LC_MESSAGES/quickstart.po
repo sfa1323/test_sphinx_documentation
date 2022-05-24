@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test PrIME20 Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 10:19+0200\n"
+"POT-Creation-Date: 2022-05-23 09:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgid "Quick Start"
 msgstr ""
 
 #: ../../source/quickstart.rst:6
-msgid "Step 1"
+msgid "Conceptual Info"
 msgstr ""
 
 #: ../../source/quickstart.rst:8
@@ -31,7 +31,7 @@ msgid "Tortor aliquam nulla facilisi cras fermentum odio eu feugiat."
 msgstr ""
 
 #: ../../source/quickstart.rst:12
-msgid "Step 2"
+msgid "Guide 1"
 msgstr ""
 
 #: ../../source/quickstart.rst:14
@@ -41,6 +41,6 @@ msgid ""
 msgstr ""
 
 #: ../../source/quickstart.rst:18
-msgid "Step 3"
+msgid "Guide 2"
 msgstr ""
 
